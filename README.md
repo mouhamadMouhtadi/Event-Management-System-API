@@ -176,6 +176,27 @@ Change a user's role.
 ## API Documentation
 
 Swagger UI is available when running the project.
+Future Improvements
 
-Example:
+## Some features that can be added in the future:
+
+Event image upload
+
+Ticket QR code generation
+
+Refund system for cancelled registrations
+
+Real-time notifications
+
+Event search and filtering
+
+Dashboard analytics for organizers
+
+ ## Author
+
+Mouhamad Mouhtadi
+
+Backend developer specializing in ASP.NET Core and RESTful API development.
+
+This project was built as part of my backend portfolio to demonstrate authentication, payments, event management, and integrations with external services like Stripe and SMTP email systems.
 
